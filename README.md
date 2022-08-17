@@ -21,9 +21,6 @@ I wanted to create a simple Google Clone mometum while learning ReactJS hence I 
 - Any contributions you make are **greatly appreciated**.
 - Check out my [contribution guidelines](https://github.com/hellodeborahuk/buzzphonics/blob/main/Contributing.md) for more information.
 
-## 🛡️ License
-Phonics sounds is licensed under the MIT License - see the [LICENSE file](https://github.com/hellodeborahuk/buzzphonics/blob/main/LICENSE) for details.
-
 ## 👇 Prerequisites
 
 Before installation, please make sure you have already installed following tools:
