@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Google Momentum Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 👨‍💻 Demo
 
-In the project directory, you can run:
+Check out the website: [Google Momentum Clone](https://luminous-centaur-3c3548.netlify.app/)
 
-### `npm start`
+## Tech used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%2311C684.svg?style=for-the-badge&logo=html5&logoColor=140200"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%23F878B5.svg?style=for-the-badge&logo=css3&logoColor=140200"/> <img alt="React" src="https://img.shields.io/badge/reactrouter-%230671D5.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](www.flaticon.com).
 
-### `npm test`
+## 🗣️ About this project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+I wanted to create a simple Google Clone mometum while learning ReactJS hence I came up with this idea. We build a Google Momentum Clone using Axios to talk to our different APIs.  Axios is a promised-based HTTP Client for node which makes talking with APIs clean and simple. We use React Hooks such as useState and useEffect to work with Axios. 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 👨‍💻 Contributing
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Any contributions you make are **greatly appreciated**.
+- Check out my [contribution guidelines](https://github.com/hellodeborahuk/buzzphonics/blob/main/Contributing.md) for more information.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛡️ License
+Phonics sounds is licensed under the MIT License - see the [LICENSE file](https://github.com/hellodeborahuk/buzzphonics/blob/main/LICENSE) for details.
 
-### `npm run eject`
+## 👇 Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Before installation, please make sure you have already installed following tools:
+- [Git](https://git-scm.com/downloads)
+- [NodeJs](https://nodejs.org/en/download/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠️ Installation Steps
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Fork the project
+2. Clone the project
+3. Navigate to the project directory `cd buzzphonics`
+4. Install dependencies with `npm install`
+5. Run `npm start`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Show your support
+Give a ⭐️ if this project helps you or you like it.
