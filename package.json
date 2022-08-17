@@ -14,8 +14,7 @@
     "react-moment": "^1.1.2",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.5",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://cemeiq.github.io/momentum-clone"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -23,7 +22,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-   
     "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
